@@ -24,4 +24,5 @@ The primary dataset for this analysis is located in the "Raw data" folder. It co
    - No significant difference in quitting behavior was observed based on education levels.
    - Certain job roles, including laboratory technicians, sales representatives, and human resources employees, exhibited higher attrition rates.
    - Predictive modeling estimates the likelihood of employee quitting, centered around the overall company attrition rate.
-
+data.xlsx
+YAM
