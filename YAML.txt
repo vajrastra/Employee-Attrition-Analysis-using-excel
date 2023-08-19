@@ -1,0 +1,16 @@
+
+2. Access the Excel dataset in the "Raw data" folder to explore the raw data.
+
+3. Review the analysis process and code in the `HR_Employee_Attrition-Data_Analysis_Process` file.
+
+## Contributions
+
+Contributions to enhance or expand this analysis are welcome! Feel free to open issues, submit pull requests, or provide feedback.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Repository: [Employee Attrition Analysis using Excel](https://github.com/vajrastra/Employee-Attrition-Analysis-using-excel)
